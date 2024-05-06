@@ -1,0 +1,7 @@
+name: manim
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - manim
+  - jupyter
